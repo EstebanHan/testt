@@ -1,3 +1,3 @@
-# Terraform-Workshop
+## Terraform-Workshop
 
-### Terraform Workshop [docs 링크](https://github.com/EstebanHan/testt/tree/main/DOCS)
+#### Terraform Workshop [DOCS](https://github.com/EstebanHan/Terraform-Workshop/blob/main/DOCS/README.md)
